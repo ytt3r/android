@@ -185,6 +185,6 @@
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/vold" name="platform/system/vold" />
   <project path="system/wlan/ti" name="platform/system/wlan/ti" />
-  <project path="vendor/teamanarchy" name="ytt3r/android_vendor_teamanarchy" remote="github" />
+  <project path="vendor/teamanarchy" name="ytt3r/android_vendor_teamanarchy" remote="github" revision="master" />
 
 </manifest>
